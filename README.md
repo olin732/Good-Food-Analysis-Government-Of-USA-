@@ -41,7 +41,6 @@ Before analysis, the dataset was cleaned for accuracy:
 To derive insights and visualize trends, the following techniques were used:
 - Bar charts, pie charts, and heatmaps
 - Grouped aggregations and trend lines
-- Outlier detection (boxplots)
 - Correlation matrix for numerical features
 - Time-series analysis by year
 
